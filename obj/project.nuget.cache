@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sLeyA3cuZIJhwW01JPGgxwGp/7FVmuP/hrlwTyxBsgE5H9k5qsk4tbtd0HDX9DwWh+8Tht+ZRldRYdehf7Ud+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielMarkham\\Dropbox\\aa-source\\hexfun\\hexfun.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielMarkham\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
